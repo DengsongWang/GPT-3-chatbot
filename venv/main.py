@@ -23,7 +23,7 @@ def search_reviews(df, product_description):
   return ("Answer 2: " + origin_file.at[res.index[0], 'answer']+"\n\n"+"Answer 3: " + origin_file.at[res.index[1], 'answer']+"\n\n"+"You might want to ask: " + origin_file.at[res.index[0], 'question'])
 
 def result():
-  openai.api_key = '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'
+  openai.api_key = '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'
   while True:
     user_input = input("Human: ")
     response = openai.Completion.create(
