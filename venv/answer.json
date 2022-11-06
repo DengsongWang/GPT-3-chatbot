@@ -1,0 +1,16 @@
+{
+    "stocks_answer": [
+    { "name":"a1" , "content":"A stock, also known as equity, is a security that represents the ownership of a fraction of the issuing corporation." }, 
+    { "name":"a2" , "content":"Stock researching is a not a lengthy process but beginners can easily take up anywhere between 2 to 4 hours to complete the entire process." }, 
+    { "name":"a3" , "content":"You can often find a company's financial reports on the company's own website. " },
+    { "name":"a4" , "content":"When a trader in the market makes an offer to buy shares.Traders will bid for a stock at a certain price. " },
+    { "name":"a5" , "content":"The difference between the highest price at which someone is willing to buy shares and the lowest price someone is willing to sell shares. " },
+    { "name":"a6" , "content":"A market condition where stock prices are continually rising. Bull markets are characterized by optimism and excitement from traders and investors. " },
+    { "name":"a7" , "content":"A bear market is the opposite of a bull market. It’s a market in which prices continually fall. Bear markets are times when the outlook seems bleak for a company, an industry, or the overall economy. Traders and investors are less willing to buy stocks, and many are looking to sell. This causes prices to fall." }, 
+    { "name":"a8" , "content":"With this market order, if it isn’t filled during the day, it’s automatically canceled at the market close." }, 
+    { "name":"a9" , "content":"When going long, you purchase stock shares hoping to profit from an increase in the stock price." },
+    { "name":"a10" , "content":"When a trader tries to profit from a stock’s dropping price. Short sellers borrow shares from a broker, sell them, and hope the stock price declines. Then they buy the shares back and return them to the broker." },
+    { "name":"a11" , "content":"IPO stands for initial public offering. It’s when a company goes through the process of selling shares on the stock market for the first time." },
+    { "name":"a12" , "content":"Forex is short for foreign exchange. The term refers to the global trading of currencies in a way similar to the way stocks are traded." }
+	]
+}

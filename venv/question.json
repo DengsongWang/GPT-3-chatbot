@@ -1,0 +1,16 @@
+{
+    "stocks_question": [
+    { "name":"q1" , "content":"What is stock?" }, 
+    { "name":"q2" , "content":"How much time should I spend while researching stocks?" }, 
+    { "name":"q3" , "content":"Where can I get the company’s financial report and other information?" },
+    { "name":"q4" , "content":"What does bid mean in stock?" }, 
+    { "name":"q5" , "content":"What does Bid-Ask Spread mean in stock?" }, 
+    { "name":"q6" , "content":"What does Bull Market mean in stock?" },
+    { "name":"q7" , "content":"What does bear market mean in stock?" }, 
+    { "name":"q8" , "content":"What does day order mean in stock?" }, 
+    { "name":"q9" , "content":"What does going long mean in stock?" },
+    { "name":"q10" , "content":"What does going short mean in stock?" }, 
+    { "name":"q11" , "content":"What does IPO mean in stock?" }, 
+    { "name":"q12" , "content":"What does Forex mean in stock?" }
+    ]
+}
