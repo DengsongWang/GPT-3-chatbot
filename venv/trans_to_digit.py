@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import openai
-openai.api_key = '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'
+openai.api_key = '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'
 datafile_path = "answer.csv"  # for your convenience, we precomputed the embeddings
 df = pd.read_csv(datafile_path)
 def get_embedding(text, model="text-similarity-davinci-001"):
